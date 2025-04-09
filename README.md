@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViliTajnic
 - 👀 I’m interested in Python programming, Oracle technologies and APEX 
 - 🌱 I’m currently learning PL/SQL and APEX
-- 💞️ I’m looking to collaborate on APEX porojects
+- 💞️ I’m looking to collaborate on APEX projects
 - 📫 You can reach me through email vili.tajnic@gmail.com
 
 <!---
