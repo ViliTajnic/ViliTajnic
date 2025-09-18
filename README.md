@@ -5,14 +5,15 @@
 🧠 Oracle Certified Professional (OCP) – passionate about AI, cloud automation, and building useful tools with real-world impact.  
 
 ## 🛠️ Tech I Work With
-- **Oracle DB / APEX**
-- **OCI / Terraform / Docker / Kubernetes**
+- **Oracle DB / APEX / SQLcl MCP**
+- **OCI / Terraform / Docker / Kubernetes / Flask**
 - **Python / Bash / SQL / Git**
 - **AI + LLM integration (Oracle AI Optimizer, Vector Search, RAG)**
 
 ## 🧪 Current Projects
-- Building a presence recording app using APEX + OCI Always Free  
+- Updating functionalities of AI Optimizer and Toolkit   
 - Playing with AI-enhanced cloud automation
+- Developing concept solutions by using MCP with Oracle tech
 - Promoting Oracle AI technologies at developer conferences 🌐  
 
 ## ✉️ Reach Out
