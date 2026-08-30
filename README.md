@@ -13,7 +13,7 @@
 ## 🧪 Current Projects
 - Elaris, Hotel-OS, Delopravnik, Potni stroški app, EMA, ... 
 - Playing with AI-enhanced cloud automation
-- Developing concept solutions by using MCP  🌐  
+- Developing concept solutions by using MCP
 
 ## ✉️ Reach Out
 - 💼 [LinkedIn](https://www.linkedin.com/in/vilit/)
