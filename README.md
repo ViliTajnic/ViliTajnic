@@ -18,6 +18,7 @@
 ## ✉️ Reach Out
 - 💼 [LinkedIn](https://www.linkedin.com/in/vilit/)
 - 📫 [Email](mailto:vili.tajnic@gmail.com)
+- 🌐 [Web](https://xhost.pythonanywhere.com/)
 
 ---
 ```python
