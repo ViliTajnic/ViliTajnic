@@ -17,8 +17,8 @@
 - Promoting Oracle AI technologies at developer conferences 🌐  
 
 ## ✉️ Reach Out
-- 💼 [LinkedIn](https://www.linkedin.com/in/vilitajnic/)
-- 📫 [Email](mailto:vili.tajnic@oracle.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/vilit/)
+- 📫 [Email](mailto:vili.tajnic@gmail.com)
 
 ---
 
