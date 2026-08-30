@@ -25,7 +25,7 @@
 while alive:
     learn()
     create()
-    wonder()
+    be_curious()
 ```
 <!---
 ViliTajnic/ViliTajnic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
