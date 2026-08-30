@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Vili Tajnic
 
-🔭 Currently Developer Evangelist at **Oracle**, focused on AI, OCI, APEX, and database technologies.  
+🔭 Currently fleelancing, focused on AI, Python, and database technologies.  
 🌍 Based in Slovenia, working with global and local communities to enable developers with cutting-edge Oracle solutions.  
 🧠 Oracle Certified Professional (OCP) – passionate about AI, cloud automation, and building useful tools with real-world impact.  
 
 ## 🛠️ Tech I Work With
 - **Oracle DB / APEX / SQLcl MCP**
-- **OCI / Terraform / Docker / Kubernetes / Flask**
+- **AWS/GCP/OCI / Terraform / Docker / Kubernetes / Flask**
 - **Python / Bash / SQL / Git**
-- **AI + LLM integration (Oracle AI Optimizer, Vector Search, RAG)**
+- **AI + LLM integration (project Oracle AI Optimizer, Vector Search, RAG)**
 
 ## 🧪 Current Projects
 - Updating functionalities of AI Optimizer and Toolkit   
