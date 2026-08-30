@@ -11,7 +11,7 @@
 - **AI + LLM integration (project Oracle AI Optimizer, Vector Search, RAG)**
 
 ## 🧪 Current Projects
-- Elaris, Hotel-OS, Delopravnik, Potni stroški app, EMA, ... 
+- Elaris, Hotel-OS, Delopravnik, Potni stroški app, EMA, Kvadratnik, ... 
 - Playing with AI-enhanced cloud automation
 - Developing concept solutions by using MCP
 
