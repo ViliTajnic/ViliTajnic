@@ -11,10 +11,9 @@
 - **AI + LLM integration (project Oracle AI Optimizer, Vector Search, RAG)**
 
 ## 🧪 Current Projects
-- Updating functionalities of AI Optimizer and Toolkit   
+- Elaris, Hotel-OS, Delopravnik, Potni stroški app, EMA, ... 
 - Playing with AI-enhanced cloud automation
-- Developing concept solutions by using MCP with Oracle tech
-- Promoting Oracle AI technologies at developer conferences 🌐  
+- Developing concept solutions by using MCP  🌐  
 
 ## ✉️ Reach Out
 - 💼 [LinkedIn]([https://www.linkedin.com/in/vilit/)
