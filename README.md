@@ -1,19 +1,22 @@
+
 # 👋 Hi, I'm Vili Tajnic
 
-🔭 Currently freelancing, building practical solutions with AI, Python, and database technologies. 
-🌍 Based in Slovenia, working with global and local communities to enable developers with cutting-edge Oracle solutions.  
-🧠 Oracle Certified Professional (OCP) – passionate about AI, cloud automation, and building useful tools with real-world impact.  
+🔭 Database Developer Team Lead at [Advansys](https://www.advansys.si/), leading the backend database team behind **Nexio**: Oracle SQL & PL/SQL, data management and backend feature development.  
+🛠️ 25+ years in IT, including five years at Oracle as Principal Solution Engineer and Developer Evangelist.  
+🧠 Oracle Certified Professional (OCP). On the side I build practical tools with AI, Python and database technologies.  
+🌍 Based in Ljubljana, Slovenia.
 
 ## 🛠️ Tech I Work With
-- **Oracle DB / APEX / SQLcl MCP**
-- **AWS/GCP/OCI / Terraform / Docker / Kubernetes / Flask**
-- **Python / Bash / SQL / Git**
-- **AI + LLM integration (project Oracle AI Optimizer, Vector Search, RAG)**
+- **Oracle Database: SQL / PL/SQL / data modeling / performance**
+- **Oracle 23ai/26ai: Vector Search, RAG, SQLcl MCP, APEX**
+- **Python / FastAPI / Flask / Django / Bash / Git**
+- **OCI / AWS / GCP / Terraform / Docker / Kubernetes**
+- **AI + LLM integration: Oracle AI Optimizer, MCP, AI-assisted coding for dev teams**
 
-## 🧪 Current Projects
-- Elaris, Hotel-OS, Delopravnik, Potni stroški app, EMA, Kvadratnik, ... 
-- Playing with AI-enhanced cloud automation
-- Developing concept solutions by using MCP
+## 🧪 Side Projects
+- Elaris, Hotel-OS, Delopravnik, Potni stroški app, EMA, Kvadratnik, ...
+- Proof-of-concept solutions built on MCP
+- AI-enhanced cloud and dev automation
 
 ## ✉️ Reach Out
 - 💼 [LinkedIn](https://www.linkedin.com/in/vilit/)
